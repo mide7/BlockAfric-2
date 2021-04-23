@@ -1,0 +1,12 @@
+.PB-btn{
+    background-color: rgb(0, 166, 255);
+    border-radius: 13%;
+    padding: .8rem 1.5rem;
+    min-width: 9rem;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+}
+.PB-btn:hover{
+    background-color: rgb(5, 138, 209);
+}
